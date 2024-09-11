@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.instagram.com/iamidriss_taylor">
     <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://wa.me/23791299440">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp Badge"/>
   </a>
 </div>
@@ -60,6 +60,25 @@ ________________________________________________________________________________
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=idrissou14&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrissou14&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=idrissou14&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=idrissou14&show_icons=true&theme=moltack#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+____________________________________________________________________________________________________________________________________________________________
+
+### :fire: A Day in the Life of a Code Shogun 🥷 :
+
+
+
+
+```mermaid
+graph TD;
+    A[Need to code] --> B{Motivation?};
+    B -- Yes --> C[Code];
+    B -- No --> D[Procrastinate];
+    D --> B;
+    C --> E[Celebrate!];
 
 
 
