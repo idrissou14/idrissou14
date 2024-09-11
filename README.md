@@ -9,7 +9,9 @@
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=idrissou14&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 - 👋 Hi, I’m @idrissou14
