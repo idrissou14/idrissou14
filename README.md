@@ -8,6 +8,9 @@
   <a href="https://wa.me/23791299440">
     <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp Badge"/>
   </a>
+   <a href="www.linkedin.com/in/idrissou-nang-631b63330">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
+  </a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=idrissou14&style=flat-square&color=blue" alt=""/>
