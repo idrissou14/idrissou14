@@ -39,7 +39,7 @@ I'm Idrissou, a Full-Stack Developer who transforms ideas into functional and el
 * **💡 My Passions**: Development, gaming 🕹️, and football 🥅.
 * **🤝 Collaboration**: Open to ambitious projects. **Much code, very delivery!**
 * **💥 The Anecdote**: I once spent 4 hours debugging a critical production bug... only to discover it was a browser cache issue. 🤦‍♂️
-* **📧 Professional Contact**: Feel free to reach out: **[myemail@gmail.com](mailto:myemail@gmail.com)**
+* **📧 Professional Contact**: Feel free to reach out: **[myemail@gmail.com](idrissou02nang01@gmail.com)**
 
 ________________________________________________________________________________________________________________________________________________________
 
