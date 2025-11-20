@@ -24,17 +24,22 @@
 </div>
 _______________________________________________________________________________________________________________________________________________________
 
-### :woman_technologist: About Me :
+## 🐕 Idrissou - The Code Artisan (@idrissou14)
 
+### Full-Stack Developer | Cloud & Continuous Delivery Specialist (DevOps)
 
+I'm Idrissou, a Full-Stack Developer who transforms ideas into functional and elegant applications, from concept all the way to **production deployment**.
 
-- 👋 Hi, I’m @idrissou14 - FULL-STACK DEVELOPER
-- 👀 I’m passionate about programming , gaming , football
-- 🌱 I’m currently learning React - building dynamic web experiences one component at a time.
-- 💞️ I’m looking to collaborate on exciting web,mobile or desktop development projects – let's create something awesome together!
-- 📫 Reach me on idrissou02nang01@gmail.com or catch me on [Instagram](https://www.instagram.com/iamidriss_taylor)
-- 😄 Pronouns: idrissCraftCode
-- ⚡ Fun fact: I once debugged an issue... only to realize it was a typo all along! 💻✨
+---
+
+### My Focus & Skills
+
+* **☁️ Main Focus (Wow!)**: Currently immersed in **DevOps** and **Cloud Computing** to master automation, containerization, and large-scale deployment.
+* **💻 Code Side**: I actively continue building high-performance applications for **Web and Mobile** (that's my core strength!).
+* **💡 My Passions**: Development, gaming 🕹️, and football 🥅.
+* **🤝 Collaboration**: Open to ambitious projects. **Much code, very delivery!**
+* **💥 The Anecdote**: I once spent 4 hours debugging a critical production bug... only to discover it was a browser cache issue. 🤦‍♂️
+* **📧 Professional Contact**: Feel free to reach out: **[myemail@gmail.com](mailto:myemail@gmail.com)**
 
 ________________________________________________________________________________________________________________________________________________________
 
