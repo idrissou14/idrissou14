@@ -1,93 +1,111 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.instagram.com/iamidriss_taylor">
-    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://wa.me/23791299440">
-    <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp Badge"/>
-  </a>
-   <a href="www.linkedin.com/in/idrissou-nang-631b63330">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Badge"/>
-  </a>
-</div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=idrissou14&style=flat-square&color=blue" alt=""/>
-</div>
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-_______________________________________________________________________________________________________________________________________________________
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4&mode=dark" width="100%" alt="idrissCodeCraft — profile" />
+  </picture>
 
-## 🐕 Idrissou - The Code Artisan (@idrissou14)
+<h1>idrissCodeCraft</h1>
+<p><strong>Frontend or full-stack engineer</strong></p>
+<p>Building useful things with TypeScript and shipping in public.</p>
+<p><sub>Based in cmr · Building at idrissCodeCraft</sub></p>
 
-### Full-Stack Developer | Cloud & Continuous Delivery Specialist (DevOps)
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+<td width="25%" align="center"><strong>15</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>288</strong><br /><sub>Contributions</sub></td>
+</tr>
+</table>
 
-I'm Idrissou, a Full-Stack Developer who transforms ideas into functional and elegant applications, from concept all the way to **production deployment**.
-
----
-
-### My Focus & Skills
-
-* **☁️ Main Focus (Wow!)**: Currently immersed in **DevOps** and **Cloud Computing** to master automation, containerization, and large-scale deployment.
-* **💻 Code Side**: I actively continue building high-performance applications for **Web and Mobile** (that's my core strength!).
-* **💡 My Passions**: Development, gaming 🕹️, and football 🥅.
-* **🤝 Collaboration**: Open to ambitious projects. **Much code, very delivery!**
-* **💥 The Anecdote**: I once spent 4 hours debugging a critical production bug... only to discover it was a browser cache issue. 🤦‍♂️
-* **📧 Professional Contact**: Feel free to reach out: **[myemail@gmail.com](idrissou02nang01@gmail.com)**
-
-________________________________________________________________________________________________________________________________________________________
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg" title="VB" alt="VB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" title="Laravel"  alt="Laravel" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+<p><a href="https://github.com/idrissou14">GitHub</a> &nbsp;·&nbsp; <a href="https://idscraft.vercel.app/">Website</a></p>
 </div>
 
-____________________________________________________________________________________________________________________________________________________________
+<h2>Building in public</h2>
 
-### :fire: My Stats :
+<table width="100%">
+<tr>
+<td width="62%" valign="top">
+<p>Building useful things with TypeScript and shipping in public.</p>
+<p><strong>Focus:</strong> TypeScript · JavaScript · PHP</p>
+<p><sub>Designed to make the work, momentum, and next conversation easy to find.</sub></p>
+</td>
+<td width="38%" valign="top">
+<img src="https://www.gitskins.com/api/section/portrait?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="idrissCodeCraft animated colored ASCII portrait" />
+</td>
+</tr>
+</table>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=idrissou14&theme=dark)](https://git.io/streak-stats)
+<h2>What I’m shipping</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idrissou14&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/highlights?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4&items=TypeScript%3A%3A15%20public%20repositories%7Cidscraft%3A%3AFeatured%20project%7CImpact%3A%3A0%20stars%20%C2%B7%20107%20active%20days" width="100%" alt="Highlights" />
+</p>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=idrissou14&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=idrissou14&show_icons=true&theme=moltack#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<h2>Featured work</h2>
 
-____________________________________________________________________________________________________________________________________________________________
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/idrissou14/idscraft"><strong>idscraft</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>TypeScript · ⭐ 0 stars · 0 forks</sub></p>
+<p><a href="https://github.com/idrissou14/idscraft">View project →</a></p>
+</td>
+</tr>
+</table>
 
-### :fire: A Day in the Life of a Code Shogun :
+<h2>Selected work</h2>
 
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/idrissou14/idscraft"><strong>idscraft</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>TypeScript · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/idrissou14/LinkFlow"><strong>LinkFlow</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>TypeScript · ⭐ 0</sub></p>
+</td>
+<td width="33%" valign="top">
+<h3><a href="https://github.com/idrissou14/LinkHub"><strong>LinkHub</strong></a></h3>
+<p>A project built and shared in public.</p>
+<p><sub>JavaScript · ⭐ 0</sub></p>
+</td>
+</tr>
+</table>
 
+<h2>Signal</h2>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4" width="100%" alt="0 stars across 15 repositories" />
+</p>
 
-```mermaid
-graph TD;
-    A[Need to code] --> B{Motivation?};
-    B -- Yes --> C[Code];
-    B -- No --> D[Procrastinate];
-    D --> B;
-    C --> E[Celebrate!];
+<h2>Stack</h2>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4" width="100%" alt="Language stack" />
+</p>
 
+<h2>Activity</h2>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=idrissou14&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F131742935%3Fu%3D90a932548c5dd27a13e3e22b19f5abe90e1b4599%26v%3D4&mode=dark" width="100%" alt="288 contributions in the last year" />
+  </picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/idrissou14">GitHub</a><br /><a href="https://idscraft.vercel.app/">Website</a></td>
+</tr>
+</table>
